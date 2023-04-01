@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-
+aceess this url to view the project https://black-desert-0ea2d8310.2.azurestaticapps.net
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
